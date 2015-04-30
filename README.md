@@ -1,4 +1,5 @@
-# Mathias’s dotfiles
+# Jason Tucker's dotfiles
+## based on Mathias with some changes by yours truely.
 
 ![Screenshot of my shell prompt](http://i.imgur.com/EkEtphC.png)
 
