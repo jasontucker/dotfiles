@@ -1,5 +1,9 @@
+<<<<<<< Updated upstream
 # Jason Tucker's dotfiles
 ## based on Mathias with some changes by yours truely.
+=======
+# Jason Tuckers modified version of Mathias’s dotfiles
+>>>>>>> Stashed changes
 
 ![Screenshot of my shell prompt](http://i.imgur.com/EkEtphC.png)
 
